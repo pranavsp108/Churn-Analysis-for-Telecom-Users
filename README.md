@@ -1,0 +1,2 @@
+# Churn Analysis for Telecom Users
+This project focuses on predicting customer churn in the telecommunications industry using data analytics and machine learning techniques. By analyzing customer behavior, usage patterns, and demographic data, the model identifies potential churners, helping telecom companies take proactive measures to improve retention. The goal is to enhance customer satisfaction, reduce attrition rates, and optimize business strategies through data-driven decision-making.
